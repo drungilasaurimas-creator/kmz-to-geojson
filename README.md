@@ -1,2 +1,2 @@
 # kmz-to-geojson
-Python script to convert KMZ files to GeoJSON format
+Python script - convert KMZ files to GeoJSON format
